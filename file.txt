@@ -1,0 +1,11 @@
+this is my completwe java application.
+
+
+
+class Hello
+{
+main()
+{
+System.out.println("hello");
+}
+}
