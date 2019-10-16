@@ -7,7 +7,14 @@ class Hello
  public static void main(String args[])
 	{
 
+<<<<<<< HEAD
 	System.out.println("hello to the world and the countries of the world");
 
+=======
+	System.out.println("hello to the world");
+	
+	System.out.println("hello to india");
+	
+>>>>>>> bug126
 	}
 }
