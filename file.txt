@@ -15,4 +15,8 @@ class Hello
 	system.out.println("this change is from github");
 
 	}
+
+static void method()
+{
+sysout("my method call");
 }
