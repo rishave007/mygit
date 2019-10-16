@@ -16,7 +16,9 @@ class Hello
 
 	}
 
-static String method()
+
+public String void method()
+
 {
-sysout("my method call");
+system.out.println("my method call");
 }
