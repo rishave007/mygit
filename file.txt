@@ -16,7 +16,7 @@ class Hello
 
 	}
 
-static void method()
+static String method()
 {
 sysout("my method call");
 }
